@@ -1,0 +1,19 @@
+{
+  "name": "pagebuilder-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jazz-Man/pagebuilder-assets.git"
+  },
+  "author": "vsokolyk <vsokolyk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jazz-Man/pagebuilder-assets/issues"
+  },
+  "homepage": "https://github.com/Jazz-Man/pagebuilder-assets#readme"
+}
